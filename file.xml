@@ -5,7 +5,6 @@
     <company>ООО "Спорт Центр Резерв"</company>
     <url>https://chistyeprudy.rodina-club.ru/</url>
     <email>info-prudy@rodina-club.ru</email>
-    <picture>https://static.tildacdn.com/tild3961-3263-4633-b861-323366666363/logo.svg</picture>
     <description>Клуб здоровья и долголетия RODINA Чистые Пруды предлагет широкий спектр медицинских услуг, которые помогут сохранить здоровье и предотвратить риск заболеваний.</description>
     <currencies>
       <currency id="RUB" rate="1"/>
@@ -19,18 +18,27 @@
         <url>https://chistyeprudy.rodina-club.ru/services/preventive_medicine/consultations/orlov</url>      
         <currencyId>RUB</currencyId>
         <sales_notes>Первичная консультация</sales_notes>
-         <set-ids>terapevt,kardiolog</set-ids>
-          <picture>https://static.tildacdn.com/tild6166-3462-4966-b565-666639386437/pic.jpg</picture>
+        <set-ids>terapevt,kardiolog</set-ids>
+        <picture>https://static.tildacdn.com/tild6166-3462-4966-b565-666639386437/pic.jpg</picture>
         <description>Запишитесь на консультацию к Орлову Александру Викторовичу — автору оздоровительных программ Клуба Здоровья и Долголетия Rodina, врачу-терапевту, кардиологу и кандидату медицинских наук. С 2020 года Александр Орлов возглавляет медицину в сети Rodina и разрабатывает все оздоровительные программы, включающие физическое здоровье, питание, сон, а также работу с психо-эмоциональным состоянием людей.</description>
-        <categoryId/>
+        <categoryId>1</categoryId>
         <param name="Фамилия">Орлов</param>
         <param name="Имя">Александр</param>
         <param name="Отчество">Викторович</param>
         <param name="Годы опыта">17</param>
         <param name="Город">Москва</param>
+        <param name="Адрес клиники">г. Москва, Чистопрудный б-р., 12с1</param>
+        <param name="Название клиники">Клуб здоровья и долголетия RODINA Чистые Пруды</param>
         <param name="Телефон для записи">7 495 191-34-70</param>
+        <price>
+          <value>10000</value>
+          <type>Первичный прием</type>
+        </price>
+        <price>
+          <value>13000</value>
+          <type>Комплексный прием</type>
+        </price>
       </offer>
     </offers>
   </shop>
 </yml_catalog>
-
