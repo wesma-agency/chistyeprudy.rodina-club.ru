@@ -13,6 +13,16 @@
         <categories>
             <category id="1">Врач</category>
     </categories>
+    <sets>
+      <set id="terapevt">
+        <name>Терапевт</name>
+        <url>https://chistyeprudy.rodina-club.ru/services/preventive_medicine/consultations/orlov</url>
+      </set>
+      <set id="kardiolog">
+        <name>кардиолог</name>
+        <url>https://chistyeprudy.rodina-club.ru/services/preventive_medicine/consultations/orlov</url>
+      </set>
+    </sets>
     <offers>
       <offer id="vrach">
         <name>Орлов Александр Викторович</name>
